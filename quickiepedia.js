@@ -1,4 +1,4 @@
 (function(){
-concole.log("Interacting!!!");
+console.log("Interacting!!!");
 document.getElementByClass("mw-parser-output").remove();
 })();
