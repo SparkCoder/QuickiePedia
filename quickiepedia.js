@@ -1,4 +1,4 @@
 function test() {
-  alert("Test");
+  concole.log("Test");
 }
 test();
