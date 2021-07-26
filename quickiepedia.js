@@ -1,1 +1,1 @@
-console.log("Test");
+document.getElementByClass("mw-parser-output").remove();
