@@ -1,2 +1,2 @@
 # QuickiePedia
-Bookmarklet for playing QuickiePedia
+Chrome extension for playing QuickiePedia
